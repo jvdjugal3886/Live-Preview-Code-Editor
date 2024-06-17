@@ -4,12 +4,13 @@
 # Live Code Editor with Preview
 
 This project showcases a dynamic web application built with React that allows users to write HTML, CSS, and JavaScript code in separate editors and instantly see the live output in an adjacent preview window using iframes.
-![Screenshot 2024-05-17 182424](https://github.com/jvdjugal3886/Live-Preview-Code-Editor/assets/89655571/355ca7fe-3113-473f-8e97-774ad086f2b3)
+
 ![Screenshot (511)](https://github.com/jvdjugal3886/Live-Preview-Code-Editor/assets/89655571/83c0e756-c5b4-42e7-96cb-86706538b7f9)
 ![Screenshot (510)](https://github.com/jvdjugal3886/Live-Preview-Code-Editor/assets/89655571/646fe18a-6f60-4986-ba0e-034f27f0a8a1)
 
 # Key Features:
-- **Code Editors**: Integrated CodeMirror editors for HTML, CSS, and JavaScript with syntax highlighting and code linting.
+- **Code Editors**: Integrated CodeMirror editors for HTML, CSS, and JavaScript with syntax highlighting and code linting.![Screenshot (512)](https://github.com/jvdjugal3886/Live-Preview-Code-Editor/assets/89655571/6dc3fd38-27e4-4ec6-a335-11574c540f97)
+
 - **Live Preview**: Real-time preview of the code output rendered in an iframe, updating dynamically as the user types.
 - **Customizable Themes**: Dropdown menu for selecting different editor themes, enhancing user experience.
 - **Automatic Tag and Bracket Closing**: Enhanced editing experience with automatic closing of tags and brackets using CodeMirror addons.
