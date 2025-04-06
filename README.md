@@ -33,8 +33,4 @@ This project showcases a dynamic web application built with React that allows us
 - Improve accessibility and responsiveness.
 - Enhance error handling and user feedback.
 
-# Contributing:
-Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
-
-Feel free to customize the sections based on specific features or enhancements you've implemented. Replace `link-to-license-file` with the actual link to your license file in the repository. This description provides an overview of your project, its features, technologies used, installation instructions, credits, and how others can contribute, making it informative and inviting for potential users and contributors on GitHub.
